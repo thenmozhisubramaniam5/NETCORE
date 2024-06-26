@@ -1,0 +1,4 @@
+2024-06-21 18:51:04.972 -04:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[NZWalks.API.Models.DTO.RegionDto, NZWalks.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-06-21 18:51:04.983 -04:00 [INF] Executed action NZWalks.API.Controllers.RegionsController.GetAll (NZWalks.API) in 15133.783ms
+2024-06-21 18:51:04.984 -04:00 [INF] Executed endpoint 'NZWalks.API.Controllers.RegionsController.GetAll (NZWalks.API)'
+2024-06-21 18:51:04.988 -04:00 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Regions - 200 null application/json; charset=utf-8 15223.1781ms

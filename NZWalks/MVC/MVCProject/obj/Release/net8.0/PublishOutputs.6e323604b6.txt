@@ -1,0 +1,7 @@
+C:\2024\WebApi\NZWalks\MVC\MVCProject\obj\Release\net8.0\PubTmp\Out\MVCProject.exe
+C:\2024\WebApi\NZWalks\MVC\MVCProject\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\2024\WebApi\NZWalks\MVC\MVCProject\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\2024\WebApi\NZWalks\MVC\MVCProject\obj\Release\net8.0\PubTmp\Out\MVCProject.dll
+C:\2024\WebApi\NZWalks\MVC\MVCProject\obj\Release\net8.0\PubTmp\Out\MVCProject.deps.json
+C:\2024\WebApi\NZWalks\MVC\MVCProject\obj\Release\net8.0\PubTmp\Out\MVCProject.runtimeconfig.json
+C:\2024\WebApi\NZWalks\MVC\MVCProject\obj\Release\net8.0\PubTmp\Out\MVCProject.pdb
